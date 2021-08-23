@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Paises de Centroamerica</title>
+	<link rel="stylesheet" type="text/css" href="CSS/estilo.css">
+</head>
+<body>
+	<header>
+		<h1><b><ins>CENTROAMERICA MÁS CERCA DE TI</ins></b></h1>
+	</header>
+	<br>
+	<br>
+	<br>
+	<br>
+	<nav>
+		<ul class="menu">
+		<li><a href="Paises de Centroamerica.html">INICIO</a></li>
+		<li><a href="Paises/Belice.html">BELICE</a></li>
+		<li><a href="Paises/Costa Rica.html">COSTA RICA</a></li>
+		<li><a href="Paises/El SALVADOR.html">EL SALVADOR</a></li>
+		<li><a href="Paises/Guatemala.html">GUATEMALA</a></li>
+		<li><a href="Paises/Honduras.html">HONDURAS</a></li>
+		<li><a href="Paises/Nicaragua.html">NICARAGUA</a></li>
+		<li><a href="Paises/Panama.html">PANAMA</a></li>
+	</ul>
+	</nav>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div class="imagn">
+		<ul>
+			<img src="imagenes/img1.jpg" alt="">
+		</ul>
 
-You can use the [editor on GitHub](https://github.com/bamaya/byronamaya.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bamaya/byronamaya.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</div>
+	<hr>
+	<footer>
+ 	<p>BYRON AMAYA. Derechos reservados &#169;</p>
+	</footer>
+</body>
+</html>
