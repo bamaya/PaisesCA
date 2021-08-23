@@ -15,7 +15,7 @@
 	<br>
 	<nav>
 		<ul class="menu">
-		<li><a href="Paises de Centroamerica.html">INICIO</a></li>
+		<li><a href="index.md">INICIO</a></li>
 		<li><a href="Paises/Belice.html">BELICE</a></li>
 		<li><a href="Paises/Costa Rica.html">COSTA RICA</a></li>
 		<li><a href="Paises/El SALVADOR.html">EL SALVADOR</a></li>
