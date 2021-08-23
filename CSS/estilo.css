@@ -1,0 +1,50 @@
+body{
+	font-family: arial;
+	background: #e8e8e8;
+
+}
+header{
+	position: fixed;
+	text-align: center;
+	background: #e8e8e8;
+	width: 100%;
+	margin: auto;
+	top: 0;
+	height: 150px;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #088BAF;
+	width: 100%;
+	margin: auto;
+	position: fixed;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 38px;
+	display: block;
+
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #08AF93;
+}
+.imagn{
+	width: 90%;
+	margin: auto;
+}
+.simbolospatrios{
+	padding:0;
+	margin: auto;
+}
+.mapa{
+	padding:0;
+	margin: auto;
+}
